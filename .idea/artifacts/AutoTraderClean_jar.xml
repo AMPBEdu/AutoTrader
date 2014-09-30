@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoTraderClean:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="AutoTrader.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="AutoTrader" />
+    </root>
+  </artifact>
+</component>
